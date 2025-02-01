@@ -24,6 +24,11 @@
       "value": "false",
       "required": false
     },
+    "AUTOSTATUS_REACT": {
+      "description": "Auto React To Status saved WhatsApp statuses.",
+      "value": "true",
+      "required": false
+          },
     "AUTO_VIEW_STATUS": {
       "description": "Auto-view saved WhatsApp statuses.",
       "value": "true",
